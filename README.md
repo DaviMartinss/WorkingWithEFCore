@@ -7,7 +7,7 @@ Após a implementação de cada formato de serialização foram obtidos os segui
 <ul>
 <li>categories-and-products-using-elements.xml contém 16.440 bytes.
 <li>categories-and-products.csv contém 6.686 bytes.
-
+<li>categories-and-products.json contém 14,146 bytes.
 </ul>
  
  ![serializacao](https://user-images.githubusercontent.com/64044861/131836134-38524fbc-fe6c-4d39-af6a-7960476f05df.png)
